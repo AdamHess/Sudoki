@@ -1,14 +1,14 @@
 {
-  "name": "sudokuts",
+  "name": "sudoki",
   "version": "1.0.0",
   "description": "",
-  "main": "OneFile.js",
+  "main": "/src/app.js",
   "dependencies": {
     "@types/requirejs": "^2.1.31",
     "@types/underscore": "^1.8.3",
-    "requirejs": "^2.3.5",
     "ts-loader": "^3.0.5",
-    "typescript": "^2.5.3"
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1"
   },
   "devDependencies": {},
   "scripts": {
